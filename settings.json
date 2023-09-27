@@ -1,0 +1,6 @@
+{
+    "openai": "your_key",
+    "eleven_labs": "your_key",
+    "sd_host": "127.0.0.1",
+    "sd_port": "7860"
+  }
